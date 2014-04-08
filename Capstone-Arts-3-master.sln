@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Capstone-Arts-3-master", "http://localhost:4154", "{17B2E1B5-B54F-4179-A47B-83F3269E0906}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4154"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Capstone-Arts-3-master\Capstone-Arts-3-master\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4154\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4154"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Capstone-Arts-3-master\Capstone-Arts-3-master\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4154\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\Desktop\Capstone-Arts-3-master\Capstone-Arts-3-master\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B2E1B5-B54F-4179-A47B-83F3269E0906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B2E1B5-B54F-4179-A47B-83F3269E0906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
